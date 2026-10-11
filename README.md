@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.jpg" alt="Isometric CI/CD conveyor where security scanners pull a compromised artifact into quarantine" width="100%">
+  <img src="banner.jpg" alt="Isometric CI/CD conveyor where one scanning arch turns red over a flagged artifact" width="100%">
   <h1>Owen Pierce</h1>
   <p><b>Security engineer: cloud, DevSecOps, and offensive security. Former SRE.</b></p>
 
