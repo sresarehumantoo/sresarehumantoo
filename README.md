@@ -25,8 +25,8 @@ I sit on a team with threat hunting, detection engineering, and automation engin
 
 ### Things I've built
 
-| | |
-|---|---|
+| Project | What it does |
+|:--|:--|
 | **[reaper](https://github.com/sresarehumantoo/reaper)** <br> ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) | JavaScript/TypeScript malware deobfuscation and triage. Static dead-code and obfuscation analysis plus a hardened Docker sandbox for dynamic runs. |
 | **[wsmancer](https://github.com/sresarehumantoo/wsmancer)** <br> ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) | PSRP-native WinRM shell for offensive Windows work. NTLM/Kerberos message sealing, typed JSON output, sessions that survive dropped connections. |
 | **[rummage](https://github.com/rummage-dev/rummage)** <br> ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) | TUI file picker and fuzzy finder library for Go, built on Bubble Tea. |
