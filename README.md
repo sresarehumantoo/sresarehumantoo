@@ -2,7 +2,6 @@
   <h1>Owen Pierce</h1>
   <p><b>Security engineer: cloud, DevSecOps, and offensive security. Former SRE.</b></p>
 
-  <a href="https://aboutowenpierce.com"><img src="https://img.shields.io/badge/aboutowenpierce.com-0b0d10?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
   <a href="https://www.linkedin.com/in/prodguardian/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://img.shields.io/badge/HTB-CPTS%20%C2%B7%20CDSA-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HTB CPTS and CDSA">
 </div>
