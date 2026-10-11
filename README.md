@@ -16,7 +16,8 @@ soc       -> worked the queue as the team's AWS SME
 sec eng   -> cloud and pipeline security, internal offensive testing
 
 $ ls ~/focus
-cloud-security/  devsecops/  offsec/  least-privilege-for-agents/  homelab-as-code/
+ai-security/     devsecops/               pipeline-security/
+cloud-security/  infrastructure-as-code/  offsec/
 ```
 
 I sit on a team with threat hunting, detection engineering, and automation engineering. My lane is cloud and DevSecOps security: hardening AWS and CI/CD, writing the occasional detection, and testing our own platforms the way an attacker would. That internal testing has produced reported findings, including a multi-step privilege escalation chain.
