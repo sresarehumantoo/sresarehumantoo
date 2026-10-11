@@ -7,19 +7,9 @@
   <img src="https://img.shields.io/badge/HTB-CPTS%20%C2%B7%20CDSA-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HTB CPTS and CDSA">
 </div>
 
-```console
-$ whoami
-owen  security engineer @ Ally
-
-$ cat ~/.history
-sre       -> ran production AWS with Terraform and CI/CD
-soc       -> worked the queue as the team's AWS SME
-sec eng   -> cloud and pipeline security, internal offensive testing
-
-$ ls ~/focus
-ai-security/     devsecops/               pipeline-security/
-cloud-security/  infrastructure-as-code/  offsec/
-```
+<div align="center">
+  <img src="terminal.svg" width="760" alt="Terminal session. $ whoami -> owen, security engineer at Ally. $ cat ~/.history -> sre: ran production AWS with Terraform and CI/CD; soc: worked the queue as the team's AWS SME; sec eng: cloud and pipeline security, internal offensive testing. $ ls ~/focus -> ai-security, cloud-security, devsecops, infrastructure-as-code, pipeline-security, offsec.">
+</div>
 
 I sit on a team with threat hunting, detection engineering, and automation engineering. My lane is cloud and DevSecOps security: hardening AWS and CI/CD, writing the occasional detection, and assessing our own platforms the way an attacker would.
 
