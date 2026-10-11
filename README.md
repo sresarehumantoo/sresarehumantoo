@@ -1,7 +1,7 @@
 <div align="center">
   <img src="banner.jpg" alt="Isometric CI/CD conveyor where one scanning arch turns red over a flagged artifact" width="100%">
   <h1>Owen Pierce</h1>
-  <p><b>Security engineer: cloud, DevSecOps, and offensive security. Former SRE.</b></p>
+  <p><b>Security Engineer: cloud, DevSecOps, and offensive security.</b></p>
 
   <a href="https://www.linkedin.com/in/prodguardian/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <img src="https://img.shields.io/badge/HTB-CPTS%20%C2%B7%20CDSA-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HTB CPTS and CDSA">
@@ -21,7 +21,7 @@ ai-security/     devsecops/               pipeline-security/
 cloud-security/  infrastructure-as-code/  offsec/
 ```
 
-I sit on a team with threat hunting, detection engineering, and automation engineering. My lane is cloud and DevSecOps security: hardening AWS and CI/CD, writing the occasional detection, and testing our own platforms the way an attacker would. That internal testing has produced reported findings, including a multi-step privilege escalation chain.
+I sit on a team with threat hunting, detection engineering, and automation engineering. My lane is cloud and DevSecOps security: hardening AWS and CI/CD, writing the occasional detection, and assessing our own platforms the way an attacker would.
 
 ### Things I've built
 
