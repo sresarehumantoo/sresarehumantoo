@@ -23,8 +23,6 @@ I sit on a team with threat hunting, detection engineering, and automation engin
 | **[dotfiles](https://github.com/sresarehumantoo/dotfiles)** <br> ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) | Idempotent, reversible workstation configurator for Linux and macOS, with dry-run and drift detection. |
 | **[htb-hosts](https://github.com/sresarehumantoo/htb-hosts)** <br> ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | Sudo-free `/etc/hosts` manager for Hack The Box, as a CLI and a zero-dependency MCP server. |
 
-**Upstream:** [neovim/neovim: treesitter foldexpr parsing mid-change](https://github.com/neovim/neovim/pulls?q=author%3Asresarehumantoo)
-
 ### Behind the curtain
 
 Most of my infrastructure work lives in a private GitLab: about 100 Ansible roles and Terraform across 25+ repos running a segmented homelab.
